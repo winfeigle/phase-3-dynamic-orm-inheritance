@@ -1,6 +1,6 @@
-# Dynamic ORM with Inheritance
+# Dynamic ORM Inheritance
 
-## Objectives
+## Learning Goals
 
 - Explain why it is useful to have an ORM class from which other classes in your
   program can inherit
